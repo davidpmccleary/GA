@@ -1,2 +1,2 @@
 # GA
-Project done during General Assembly class
+Project done during General Assembly class.
